@@ -1,0 +1,9 @@
+#!/bin/bash
+touch README.md
+for i in {0..36};
+do
+    filename="${i}-index.html"
+    echo "Creating ${filename}:"
+    touch "${filename}"
+done
+
