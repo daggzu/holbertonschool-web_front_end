@@ -1,4 +1,4 @@
-Certainly! Here's a basic README for HTML that summarizes the key information we've discussed:
+
 
 # HTML (Hypertext Markup Language) Basics
 
