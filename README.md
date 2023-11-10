@@ -55,6 +55,4 @@ HTML is the backbone of web content. It provides structure and meaning to text a
 - SEO is the practice of optimizing web content to improve search engine rankings.
 - On-page, off-page, technical SEO, keyword research, content quality, user experience, and more are important aspects of SEO.
 
-This README provides an overview of essential HTML concepts. Explore further to become proficient in web development and content creation.
 
-Feel free to use this README as a reference or starting point for your HTML learning journey.
